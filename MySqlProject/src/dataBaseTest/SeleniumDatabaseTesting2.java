@@ -13,6 +13,7 @@ public class SeleniumDatabaseTesting2
 	{
 		//Testdata
 		//testdata2
+		//testdata3 from remote
 		String email = "vivek@rediffmail.com";
 		String zipcode = "222222";
 		String firstname= "Lucky";
