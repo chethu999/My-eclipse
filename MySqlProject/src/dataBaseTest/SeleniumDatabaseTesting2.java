@@ -12,6 +12,7 @@ public class SeleniumDatabaseTesting2
 	public static void main(String[] args) 
 	{
 		//Testdata
+		//testdata2
 		String email = "vivek@rediffmail.com";
 		String zipcode = "222222";
 		String firstname= "Lucky";
