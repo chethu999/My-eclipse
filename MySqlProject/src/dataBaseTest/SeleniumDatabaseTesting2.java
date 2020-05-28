@@ -21,6 +21,7 @@ public class SeleniumDatabaseTesting2
 		
 		
 		 //Input testdata using Selenium
+		//input change 
 		System.setProperty("webdriver.chrome.driver", "G:\\\\TY Selenium\\\\Selenium\\\\driver\\\\chromedriver.exe");
 		WebDriver driver = new ChromeDriver();
 		driver.get("http://mailing.dollartree.com/user/signup.jsp");
